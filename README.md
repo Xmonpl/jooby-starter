@@ -1,6 +1,6 @@
-# xmon-paste
+# xmon-jooby-starter
 
-Welcome to xmon-paste!!
+Welcome to xmon-jooby-starter!
 
 ## running
 
@@ -12,5 +12,5 @@ Welcome to xmon-paste!!
 
 ## docker
 
-     docker build . -t xmon-paste
-     docker run -p 8080:8080 -it xmon-paste
+     docker build . -t xmon-jooby-starter
+     docker run -p 8080:8080 -it xmon-jooby-starter

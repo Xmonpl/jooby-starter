@@ -1,4 +1,4 @@
-package org.eu.xmon.paste;
+package org.eu.xmon.starter;
 
 import io.jooby.Jooby;
 import io.jooby.freemarker.FreemarkerModule;

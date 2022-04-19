@@ -5,15 +5,15 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <artifactId>xmon-paste</artifactId>
-  <groupId>app</groupId>
+  <artifactId>org.eu.xmon</artifactId>
+  <groupId>starter</groupId>
   <version>1.0.0</version>
 
   <name>xmon-paste</name>
 
   <properties>
     <!-- Startup class -->
-    <application.class>org.eu.xmon.paste.App</application.class>
+    <application.class>org.eu.xmon.starter.App</application.class>
 
     <jooby.version>2.13.0</jooby.version>
 
